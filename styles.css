@@ -1,7 +1,27 @@
+/* Common styles */
+body {
+    margin: 0px;
+}
+/* Common Nav styles */
+.navigation-wrapper {
+    height: 190px;
+    background-color: #11122b;
+    color: #cbcbcb;
+    /* makes this into a flexbox container */
+    display: flex; 
+    justify-content: space-between;
+    align-items: center;
+    padding: 60px 100px;
+    /* padding: 100px; */
+    /* padding-top: 60px;
+    padding-bottom: 60px;
+    padding-right: 100px;
+    padding-left: 100px; */
+}
 .contact-hours-wrapper {
-    color: royalblue;
+    
 }
 
 .address-wrapper {
-    color: red;
+    
 }

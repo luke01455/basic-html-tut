@@ -1,6 +1,7 @@
 /* Common styles */
 body {
     margin: 0px;
+    font-family: 'Roboto', sans-serif;
 }
 /* Common Nav styles */
 .navigation-wrapper {
@@ -36,6 +37,14 @@ body {
     grid-gap: 10px;
 }
 
+.nav-link a{
+    font-family: 'Ubuntu Condensed', sans-serif;
+    color: white;
+}
+.contact-hours-wrapper > .hours {
+    font-family: 'Ubuntu Condensed', sans-serif;
+}
+
 .address-wrapper {
-    
+    font-family: 'Ubuntu Condensed', sans-serif;  
 }

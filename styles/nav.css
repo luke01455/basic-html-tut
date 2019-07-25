@@ -61,7 +61,7 @@
 .links-wrapper {
     display: flex;
     justify-content: space-between;
-    align-tems: center;
+    align-items: center;
 }
 .links-wrapper > .nav-link {
     width: 70px;

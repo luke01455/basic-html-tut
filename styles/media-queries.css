@@ -45,6 +45,7 @@
         flex-direction: column;
     }
 
+
     .footer {
         height: 100%
     }
@@ -83,7 +84,7 @@
     .page-container > .contact-grid-wrapper {
         width: 100%;
         grid-template-columns: 1fr;
-        grid-gap: 10px;
+        grid-gap: 15px;
     }
 
     .form input {
